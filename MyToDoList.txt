@@ -1,4 +1,5 @@
 1. Learn git
 2. Learn GitHub
 3. Learn IDEA
-4. Push to Github
+4. Push to GitHub
+5. Check my work
