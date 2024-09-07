@@ -3,3 +3,4 @@
 3. Learn IDEA
 4. Push to GitHub
 5. Check my work
+6. Create pull request
